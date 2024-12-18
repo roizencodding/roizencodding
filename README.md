@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @roizencodding
 - 👀 I’m interested in Programming, Math and English (yes i speak on russian)
 - 🌱 I’m currently learning C. But in the future in will learn Assembly and Rust (no i'm not a femboy and i didn't drink 658,472 energy drinks)
-- 📫 How to reach me? Discord: roizenplayc Telegram: cshnik Element: roizencodding
+- 📫 How to reach me? Element: roizencodding
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: lingaguliguliguliwatsalingaguulingaguulingaguliguliguliwatsalingaguulingaguu
 
